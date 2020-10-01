@@ -5,6 +5,10 @@ In this model,the objective is to find quality stocks to invest in at a reasonab
 
 Then the model selects the to top quartile of this universe based on the combined alpha factors. 
 
+## Screenshots
+![alt text](https://github.com/ishan4das/systematic-investment-model/blob/master/Screenshots/Fundamentals Trading System - Zipline.png?raw=true)
+
+
 ## About the alpha factors
 The alpha in the model comes from three components, each component with a set of fundamental indicators. 
 I) Profitability factors: This component includes fundamental indicators like ROA, ROE, ROCE, Net Profit Margin, etc. These fundamentals guage the ability of a company to generate profits. 
