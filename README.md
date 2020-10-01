@@ -14,7 +14,7 @@ II) Safety factors: This component includes fundamental indicators that tell us 
 III) Value factors: This component includes valuation indicators, which generally speaking, stand for the sentiment of the investors for these stocks. Since, market sentiment plays a major role in the price of a stock, this component is equally as important as the others. This component includes fundamental indicators like Price/Sales ratio, Book/Market ratio, etc.  
 
 ## Findings
-Investing in Value stocks with good profitable business model and rich cash flows, is the goal of investing. This was indeed the goal that I started bulding this model with. The several backtests that I did confirmed the fact that the generated portfolio had defensive characteristics in times of market volatility and out performed the benchmark index in the long run. 
+Investing in Value stocks with good profitable business model and rich cash flows, is the goal of this model. The several backtests that I did confirmed the fact that the generated portfolio had defensive characteristics in times of market volatility and out performed the benchmark index in the long run. 
 
 
 ## Scope for improvement
