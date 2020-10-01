@@ -5,8 +5,8 @@ In this model,the objective is to find quality stocks to invest in at a reasonab
 
 Then the model selects the to top quartile of this universe based on the combined alpha factors. 
 
-## Screenshots
-![](https://github.com/ishan4das/systematic-investment-model/blob/master/Screenshots/Fundamentals%20Trading%20System%20-%20Zipline.png?raw=true "Title")
+## Screenshot
+![Screenshot](https://github.com/ishan4das/systematic-investment-model/blob/master/Screenshots/Fundamentals%20Trading%20System%20-%20Zipline.png?raw=true "Title")
 
 
 ## About the alpha factors
