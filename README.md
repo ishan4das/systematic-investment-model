@@ -26,7 +26,7 @@ Investing in value stocks with good profitable business model and rich cash flow
 
 2) Currently the model allocates funds equally between all the stocks in the top quartile but this can be improved by using better asset allocation strategies like Markovitz Optimization to maximize the signal. 
 
-3) The alpha factors at the moment are being added as is. But a better method would be to tune the hyperparameters of the model, but this comes at the risk of over fitting the historical benchmark performance. 
+3) The alpha factors at the moment are being added as is. But a better method would be to tune the hyperparameters of the model using techniques such as Lasso Regression, but this comes at the cost of over fitting the historical benchmark performance. 
 
 4) The model at the moment does not have any upper bounds for sector specfic investment. This means that our portfolio might be carrying sector specific risks. To mitigate these, filters can be implemented on the basis of different sector-specific ETFs, and upper bounds can be set for each sector to get a desired diversification. 
 
