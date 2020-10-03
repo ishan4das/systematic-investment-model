@@ -3,7 +3,7 @@ Description: A systematic trading system for investments in US equity market bas
 
 In this model,the objective is to find quality stocks to invest in at a reasonable price by using the various fundamentals of the stock like Earnings ratios, valuation ratios, Operation ratios and other important metrics from the financial statements as the model's alpha factors. These numeric alpha factors are then winsorized, normalized and combined to give a separate alpha factor for each of the securities in the US equity universe. 
 
-Then the model selects the to top quartile of this universe based on the combined alpha factors. 
+Then the model selects the top quartile of this universe based on the combined alpha factors. 
 
 ## Screenshot
 ![Screenshot](https://github.com/ishan4das/systematic-investment-model/blob/master/Screenshots/Fundamentals%20Trading%20System%20-%20Zipline.png?raw=true "Title")
