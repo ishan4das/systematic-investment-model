@@ -10,7 +10,8 @@ Then the model selects the top quartile of this universe based on the combined a
 
 
 ## About the alpha factors
-The alpha in the model comes from three components, each component with a set of fundamental indicators. 
+The alpha in the model comes from three components, each component with a set of fundamental indicators.
+
 I) Profitability factors: This component includes fundamental indicators like ROA, ROE, ROCE, Net Profit Margin, etc. These fundamentals guage the ability of a company to generate profits. 
 
 II) Safety factors: This component includes fundamental indicators that tell us about the cash richness of the company, which in turn gives an idea about the ability of the company to meet it's short term and long term debt obligations. Indicators include ratios of Receivables, Operating Cash flows, Net Cash flows, Cash Balance with the fundamental indicators like Current Asset, Debt and Liabilities.  
