@@ -1,5 +1,6 @@
 # Systematic Investment Model 
 Topic: Improved implementation of Piotroski F-Score 
+
 Description: A systematic trading system for investments in US equity market based on stock fundamentals implemented on Zipline engine.
 
 In this model,the objective is to find quality stocks to invest in at a reasonable price by using the various fundamentals of the stock like Earnings ratios, valuation ratios, Operation ratios and other important metrics from the financial statements as the model's alpha factors. These numeric alpha factors are then winsorized, normalized and combined to give a separate alpha factor for each of the securities in the US equity universe. 
